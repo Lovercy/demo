@@ -9,4 +9,12 @@
   <artifactId>demo-web</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>demo-web</name>
+  
+  <dependencies>
+  	<dependency>
+  		<groupId>demo-api</groupId>
+  		<artifactId>demo-api</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
+  </dependencies>
 </project>

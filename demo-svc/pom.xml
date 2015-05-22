@@ -10,4 +10,12 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
   <name>demo-svc</name>
+  
+  <dependencies>
+  	<dependency>
+  		<groupId>demo-api</groupId>
+  		<artifactId>demo-api</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
+  </dependencies>
 </project>
